@@ -43,3 +43,9 @@ Grammar is the main syntactical aspect to discuss. This includes Special words, 
 ### Semantic
 
 We shall discuss three semantic aspects of C, declarative parts, definitions of objects and statements.
+
+literals are the literal values represented by vars. 
+
+Identifiers are the var names as well as type aliases, function names and constants. All identifiers in a program must be declared.
+
+Declarations start with a type and then generally a value.
