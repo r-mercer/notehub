@@ -49,3 +49,7 @@ literals are the literal values represented by vars.
 Identifiers are the var names as well as type aliases, function names and constants. All identifiers in a program must be declared.
 
 Declarations start with a type and then generally a value.
+
+Easy test to distinguish between the two is that Declarations specify identifiers, where as definitions specify objects. So you declare x is an int, then you define x as 2.
+
+
