@@ -1,3 +1,0 @@
-# Reading List
-
-## Recommended Utilities
