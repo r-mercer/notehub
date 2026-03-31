@@ -25,3 +25,15 @@ If using VS Code, simply hit the little settings thing and then toggle to podman
 ### Networking
 
 I am actually going to give this its own little page I think
+
+---
+
+## Development Approaches
+
+### Containerized Dev Environments
+
+Create elaborate Docker environment that emulates each app in an attempt to make it work across platforms.
+
+### Remote Development
+
+Simply just remote into the machines and use their networks for development.
